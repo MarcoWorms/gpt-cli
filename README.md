@@ -1,6 +1,6 @@
-# ape-gpt
+# gpt-cli
 
-The `ape-gpt` CLI tool facilitates interactions between GPT (Generative Pre-trained Transformer) models and GitHub repositories. It streamlines the process of cloning repositories, managing your OpenAI API key, and sending prompts to GPT using the contents of the cloned repositories.
+The GPT CLI tool facilitates interactions between GPT (Generative Pre-trained Transformer) models and GitHub repositories. It streamlines the process of cloning repositories, managing your OpenAI API key, and sending prompts to GPT using the contents of the cloned repositories.
 
 ## Installation
 

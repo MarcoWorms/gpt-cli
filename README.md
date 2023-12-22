@@ -4,16 +4,16 @@ The GPT CLI tool facilitates interactions between GPT (Generative Pre-trained Tr
 
 ## Installation
 
-To get started with `ape-gpt`, follow these steps:
+To get started with `gpt-cli`, follow these steps:
 
-1. Clone the `ape-gpt` repository to your local machine.
+1. Clone the `gpt-cli` repository to your local machine.
 2. Install the required Python dependencies by executing `pip install -r requirements.txt` in your terminal.
 
 ## Usage
 
 ### Configuring the OpenAI API Key
 
-Set up your OpenAI API key with `ape-gpt` by running:
+Set up your OpenAI API key by running:
 
 ```
 python gpt.py config
